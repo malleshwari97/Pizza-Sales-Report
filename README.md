@@ -25,3 +25,9 @@ In terms of Revenue The Brie Carre Pizza is the lowest earning Pizza category.
 In terms of Quantity The Brie Carre Pizza is the lowest earning Pizza category.
 In terms of Orders The Brie Carre Pizza is the lowest earning Pizza category.
 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬:📝 The journey was a treasure trove of learning opportunities. 𝐒𝐐𝐋 skills got a serious workout as we harnessed the power of aggregate functions, datetime functions, order by, and group by functions.🏋️‍♂️ This dashboard is not just numbers, it's a story, an exploration, and a celebration of our pizza journey. Can't wait to hear your thoughts and insights!✍
+
+
+### Home page Report Dashboard
+![image](https://github.com/malleshwari97/Pizza-Sales-Report/assets/65710677/422a935e-5e73-4f3a-aef1-62e07c73c996)
+
+
