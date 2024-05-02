@@ -1,7 +1,5 @@
 # Pizza Sales Analysis
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/90070ff5-baf0-41e1-adca-48a7d98a3bd9/ReportSection?experience=power-bi
-
 I just wrapped up an amazing journey diving deep into our pizza sales data, and I am thrilled to share the highlights from our latest latest 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐑𝐞𝐩𝐨𝐫𝐭 – "𝐏𝐢𝐳𝐳𝐚 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭"🍕
 
 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭:📝 Our mission was to unravel the mysteries behind our pizza sales data and extract valuable insights into our business performance. We crunched the numbers using 𝐒𝐐𝐋 to calculate key metrics such as: 𝟏. 𝐓𝐨𝐭𝐚𝐥 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐎𝐯𝐞𝐫 𝐓𝐡𝐞 𝐘𝐞𝐚𝐫 𝟐. 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐎𝐫𝐝𝐞𝐫 𝐕𝐚𝐥𝐮𝐞 𝟑. 𝐓𝐨𝐭𝐚𝐥 𝐏𝐢𝐳𝐳𝐚𝐬 𝐒𝐨𝐥𝐝 𝟒. 𝐓𝐨𝐭𝐚𝐥 𝐎𝐫𝐝𝐞𝐫𝐬 𝟓. 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐏𝐢𝐳𝐳𝐚𝐬 𝐏𝐞𝐫 𝐎𝐫𝐝𝐞𝐫 Apart from this, we need to analyze the data in respect of sellers, trends, most profitable category, preferrable pizza sizes by the customers, total quantity sold over the year.
