@@ -30,4 +30,8 @@ In terms of Orders The Brie Carre Pizza is the lowest earning Pizza category.
 ### Home page Report Dashboard
 ![image](https://github.com/malleshwari97/Pizza-Sales-Report/assets/65710677/422a935e-5e73-4f3a-aef1-62e07c73c996)
 
+### Best/Worst Sellers Report Dashboard
+![image](https://github.com/malleshwari97/Pizza-Sales-Report/assets/65710677/a280e152-0a24-40fb-ae17-9823279f8394)
+
+
 
