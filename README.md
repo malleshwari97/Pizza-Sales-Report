@@ -4,7 +4,9 @@ I just wrapped up an amazing journey diving deep into our pizza sales data, and 
 
 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭:📝 Our mission was to unravel the mysteries behind our pizza sales data and extract valuable insights into our business performance. We crunched the numbers using 𝐒𝐐𝐋 to calculate key metrics such as: 
 𝟏. 𝐓𝐨𝐭𝐚𝐥 𝐑𝐞𝐯𝐞𝐧𝐮𝐞 𝐎𝐯𝐞𝐫 𝐓𝐡𝐞 𝐘𝐞𝐚𝐫
+
 𝟐. 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐎𝐫𝐝𝐞𝐫 𝐕𝐚𝐥𝐮𝐞
+
 𝟑. 𝐓𝐨𝐭𝐚𝐥 𝐏𝐢𝐳𝐳𝐚𝐬 𝐒𝐨𝐥𝐝 
 𝟒. 𝐓𝐨𝐭𝐚𝐥 𝐎𝐫𝐝𝐞𝐫𝐬 
 𝟓. 𝐀𝐯𝐞𝐫𝐚𝐠𝐞 𝐏𝐢𝐳𝐳𝐚𝐬 𝐏𝐞𝐫 𝐎𝐫𝐝𝐞𝐫
